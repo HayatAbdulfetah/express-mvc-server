@@ -67,7 +67,10 @@ Response
 
 ⚠️ Notes
 
--This is a backend-only project (no frontend UI).
--All responses are returned in JSON format.
--Unknown routes return a 404 JSON response.
--The project is intended for learning purposes.
+This is a backend-only project (no frontend UI).
+
+All responses are returned in JSON format.
+
+Unknown routes return a 404 JSON response.
+
+The project is intended for learning purposes.
